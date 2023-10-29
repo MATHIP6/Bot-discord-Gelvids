@@ -12,7 +12,7 @@ from random import *
 from time import *
 import openai
 
-openai.api_key = ""
+openai.api_key = "Token ici"
 bot = commands.Bot(command_prefix = "!", intents=discord.Intents.all())
 musics = {}
 ytdl = youtube_dl.YoutubeDL()
