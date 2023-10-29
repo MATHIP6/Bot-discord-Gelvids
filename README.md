@@ -18,3 +18,5 @@ Et pour la commande !ask il faut mettre un token de l'api d'openai (ChatGPT) à 
 ```python
 openai.api_key = "Token ici"
 ```
+
+Et enfin il faut executer le fichier main.py pour lancer le bot.
